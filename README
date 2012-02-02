@@ -1,0 +1,11 @@
+Grabdownloader 1.0 opensource
+(c) Jan Čermák 2012 - info <at> jan-cermak.cz
+
+Grabdownloader is a terminal script. 
+Require right "x" and cooperate with offlineimap.
+
+FIRST YOU MUST SET VARIABLES AT THE BEGINNING OF SCRIPT.
+folder - your offline imap folder for new mails
+storage - folder for download grabs
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
